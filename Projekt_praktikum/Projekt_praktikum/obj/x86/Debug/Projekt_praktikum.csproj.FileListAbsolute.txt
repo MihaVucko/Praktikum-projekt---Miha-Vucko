@@ -1,0 +1,9 @@
+C:\Users\Miha\Desktop\6.semester\Praktikum\Projekt_praktikum\Projekt_praktikum\bin\Debug\Projekt_praktikum.exe
+C:\Users\Miha\Desktop\6.semester\Praktikum\Projekt_praktikum\Projekt_praktikum\bin\Debug\Projekt_praktikum.pdb
+C:\Users\Miha\Desktop\6.semester\Praktikum\Projekt_praktikum\Projekt_praktikum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Miha\Desktop\6.semester\Praktikum\Projekt_praktikum\Projekt_praktikum\obj\x86\Debug\Projekt_praktikum.Form1.resources
+C:\Users\Miha\Desktop\6.semester\Praktikum\Projekt_praktikum\Projekt_praktikum\obj\x86\Debug\Projekt_praktikum.Properties.Resources.resources
+C:\Users\Miha\Desktop\6.semester\Praktikum\Projekt_praktikum\Projekt_praktikum\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Miha\Desktop\6.semester\Praktikum\Projekt_praktikum\Projekt_praktikum\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Miha\Desktop\6.semester\Praktikum\Projekt_praktikum\Projekt_praktikum\obj\x86\Debug\Projekt_praktikum.exe
+C:\Users\Miha\Desktop\6.semester\Praktikum\Projekt_praktikum\Projekt_praktikum\obj\x86\Debug\Projekt_praktikum.pdb
